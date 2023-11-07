@@ -1,0 +1,66 @@
+# 📗 Table of Contents
+
+- [📖 About the Project](#Vetclinic-database)
+  - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+- [👥 Authors](#author)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [🙏 Acknowledgements](#acknowledgments)
+- [📝 License](#license)
+
+# Clinic-database
+
+**Clinic-database** is a database that has information about a a clinic and its patients  created using a diagram that shows the table relationships.
+
+### Key Features <a name="key-features"></a>
+
+- **[Multiple tables with many-to-one relations and many-to-many relationships]**
+- **[Using Primary and Foreign keys to create relationships]**
+- **[Built usingPstgreSQL RDBMS based on a diagram ]**
+
+## Getting Started
+
+> To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- Downlaod PostgreSQL
+
+### Setup
+
+1. Clone this project on your local machine using the following command on your Git Bash: `https://github.com/Sami-Ullah-Tufail/clinic-database`
+
+2. Browse to project directory `cd clinic-database`
+
+## Author
+
+👤 **Amine**
+   **Enoh**
+
+- GitHub: [@Sami Ullah](https://github.com/Sami-Ullah-Tufail)
+- GitHub: [@enocol](https://github.com/enocol)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Querying the data on the database]**
+- [ ] **[Perfomance Monotoring and improvement ]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Acknowledgments
+
+- Microverse
+- Coding partners
+
+## License
+
+This project is [MIT](./License) licensed.
